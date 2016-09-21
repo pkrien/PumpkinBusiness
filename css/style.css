@@ -1,0 +1,52 @@
+@font-face {
+  font-family: "Spooky";
+  src: url(../assets/OctoberCrow.ttf) format("truetype");
+}
+
+body{
+	background: black;
+	color: orange;
+	font-family: "Spooky", sans-serif
+}
+
+p{
+	font-family: Book Antiqua;
+}
+
+h3{
+	font-family: calibri;
+	color: orange;
+	text-align: left;
+	opacity: .7
+}
+
+h1{
+	font-family: Book Antiqua;
+	text-align: center;
+	font-size: 3em;
+}
+
+#course1{
+	float: left;
+	width: 45%;
+	margin-left: 20px;
+	font-size: 14px;
+}
+
+#course2{
+	float: right;
+	width: 45%;
+	margin-right: 20px;
+	margin-top: 250px;
+	font-size: 14px;
+}
+
+#course3{
+	float: left;
+	width: 45%;
+	margin-left: 20px;
+	margin-top: 200px;
+	font-size: 14px;
+}
+
+
